@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales (por si alguna vez creas uno dentro del repo)
+.venv/
+venv/
+
+# Archivos de sistema/editor
+.DS_Store
+*.swp
+
+# Credenciales — nunca deben subirse a GitHub
+.env
